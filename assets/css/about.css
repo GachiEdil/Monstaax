@@ -7,7 +7,7 @@
 body{
   background-size: 100%;
   background-repeat: no-repeat;
-  background-image: url('../image/iVAN.jpg');
+  background-image: url('..assets/image/iVAN.jpg');
   background-size: cover;
   background-position: center;
 
