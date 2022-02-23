@@ -1,0 +1,56 @@
+#main{
+  background-size: 100%;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  background-size: cover;
+}
+body{
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-image: url('../image/kpop.jpg');
+  background-size: cover;
+  background-position: center;
+
+}
+
+#inside{
+  margin-top: 50px;
+  min-height: 100vh;
+  background-color: #202529;
+  border-radius: 10px;
+  margin-bottom: 50px;
+  opacity: 0.9;
+}
+#nav1{
+  opacity: 0.8;
+
+}
+*{
+  color: white;
+  font-family: Karlo Cham Line;
+}
+#form{
+  padding-left: 220px;
+}
+#inrow{
+  min-height: 100vh;
+}
+#cur{
+  border-right: 2px solid white;
+  min-height: 100vh;
+}
+#void{
+  border-left: 2px solid white;
+  min-height: 100vh;
+}
+#foot{
+  opacity: 0.9;
+}
+#h1{
+  padding-top: 10px;
+  padding-left: 120px;
+  font-size: 50px;
+}
+#ul{
+  font-size: 30px;
+}
